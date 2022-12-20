@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/FilmSearcher/static/css/main.1413c800.css",
-    "main.js": "/FilmSearcher/static/js/main.78605ed7.js",
+    "main.js": "/FilmSearcher/static/js/main.feba6ca9.js",
     "static/js/787.82ea8e80.chunk.js": "/FilmSearcher/static/js/787.82ea8e80.chunk.js",
     "static/media/login.jpg": "/FilmSearcher/static/media/login.858431c5d821d61829c2.jpg",
     "static/media/background.jpg": "/FilmSearcher/static/media/background.b32c5561978d1d55ce8f.jpg",
     "index.html": "/FilmSearcher/index.html",
     "main.1413c800.css.map": "/FilmSearcher/static/css/main.1413c800.css.map",
-    "main.78605ed7.js.map": "/FilmSearcher/static/js/main.78605ed7.js.map",
+    "main.feba6ca9.js.map": "/FilmSearcher/static/js/main.feba6ca9.js.map",
     "787.82ea8e80.chunk.js.map": "/FilmSearcher/static/js/787.82ea8e80.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1413c800.css",
-    "static/js/main.78605ed7.js"
+    "static/js/main.feba6ca9.js"
   ]
 }
